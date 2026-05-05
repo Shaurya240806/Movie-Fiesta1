@@ -1,0 +1,7 @@
+flask>=3.0
+flask-sqlalchemy>=3.1
+requests>=2.31
+certifi>=2024.0
+werkzeug>=3.0
+scikit-learn>=1.4
+numpy>=1.26
